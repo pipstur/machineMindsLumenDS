@@ -1,9 +1,10 @@
 # machineMindsLumenDS
 Repozitorijum za Lumen Data Science takmičenje
 
+![image](https://github.com/pipstur/machineMindsLumenDS/assets/95634547/5ca94319-a7c0-4e4b-8165-6c29a22691e9)
+
 Ja sam ovako organizovao fajlove cisto da znate za loadovanje, tj. ako zelite da runujete moj jupyter notebook
 
-![image](https://github.com/pipstur/machineMindsLumenDS/assets/95634547/28a5a587-bf88-4128-bf97-e4b297016e87)
 
 # CheckList
 ## Explore the data (korelacije izmedju kolona, njihovi odnosi, izvesti zakljucke itd.) [in progress]
