@@ -17,3 +17,9 @@ Ja sam ovako organizovao fajlove cisto da znate za loadovanje, tj. ako zelite da
 
 
 ## Unaprediti izabrani model
+- ![image](https://github.com/pipstur/machineMindsLumenDS/assets/95634547/ad2fdead-463c-4c9a-948d-9ada52f00f9e)
+- U teoriji ovaj RandomForest model koji sam implementirao radi okej, ali je pitanje da li overfittuje. Probao sam putem unakrsne validacije i odradio sam neku malu hiperparametarsku optimizaciju putem RandomizedSearch-a
+- ![image](https://github.com/pipstur/machineMindsLumenDS/assets/95634547/67e0b836-8c40-47f2-b863-82f797dc6ad8)
+- Nakon toga sam testirao na hotel_id=1 datasetu, i to je radilo solidno
+- ![image](https://github.com/pipstur/machineMindsLumenDS/assets/95634547/04917d02-3a0c-4780-a92e-cebe03a0fdee)
+
