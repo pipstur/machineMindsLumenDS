@@ -22,10 +22,14 @@ Ja sam ovako organizovao fajlove cisto da znate za loadovanje, tj. ako zelite da
 
 ## Task List (ovde zapišite bilo kakvu ideju šta bi se moglo uraditi ili nešto sa cime se hvatate u koštac trenutno)
 - Razmisliti o CRISP-DM metodologiji i načinu na koji se pristupa podacima
-- Explore the data (korelacije izmedju kolona, njihovi odnosi, izvesti zakljucke itd.) [in progress]
-- Clean the data (formatirati kolone, odluciti sta sa kategorickim podacima, koji su bitni koji ne itd) [in progress, mada bi moglo još ponešto da se uradi verovatno]
+- Explore the data (izvesti zakljucke itd.) [in progress]
+- Clean and format the data [in progress, mada bi moglo još ponešto da se uradi verovatno]
+  - Formatirati kolone +
+  - Odluciti sta sa kategorickim podacima 
+  - Feature engineering
+  - Razmisliti o tome kako formatirati datasetove (dnevni, nedeljni, mesecni, godisnji) da bi se mogli testirati modeli na smislen nacin
 - Build a baseline model (koji god da izaberemo) [otprilike završeno]
-  - Random Forest za sada
+  - Random Forest za sada, mada je nekoliko njih napravljeno
 - Improve the chosen model and evaluate it on new data [in progress]
   - Ispitati moguće overfittovanje modela
   - Objasniti rezultate
