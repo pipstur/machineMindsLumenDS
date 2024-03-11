@@ -35,4 +35,5 @@ Ja sam ovako organizovao fajlove cisto da znate za loadovanje, tj. ako zelite da
   - Objasniti rezultate
 - Explore additional models [to do]
 - Model Deployment
+- MLFlow ?
 
