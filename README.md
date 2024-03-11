@@ -1,9 +1,9 @@
 # machineMindsLumenDS
 Repozitorijum za Lumen Data Science takmičenje
 
-![image](https://github.com/pipstur/machineMindsLumenDS/assets/95634547/5ca94319-a7c0-4e4b-8165-6c29a22691e9)
+![image](https://github.com/pipstur/machineMindsLumenDS/assets/95634547/cc7e26e9-1822-4c30-a28f-98e5fe4db92d)
 
-Ja sam ovako organizovao fajlove cisto da znate za loadovanje, tj. ako zelite da runujete moj jupyter notebook
+Organizacija fajlova je iznad, mada ce vam biti isto ako klonirate repo
 
 ## Explore the data 
 ## Clean the data 
@@ -35,5 +35,6 @@ Ja sam ovako organizovao fajlove cisto da znate za loadovanje, tj. ako zelite da
   - Objasniti rezultate
 - Explore additional models [to do]
 - Model Deployment
-- MLFlow ?
+- MLFlow
+- Napisati skripte za funkcije koje se cesto pozivaju
 
